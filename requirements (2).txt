@@ -1,8 +1,0 @@
-streamlit
-pandas
-matplotlib
-wordcloud
-requests
-torch
-transformers
-scipy
